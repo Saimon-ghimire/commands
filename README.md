@@ -1,3 +1,6 @@
+wlan0 or the interface you have
+/usr/sbin/airmon-ng/
+
 sudo airmon-ng check kil
 //kill conflicts
 sudo airmon-ng start wlan0
