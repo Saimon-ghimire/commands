@@ -7,7 +7,7 @@ sudo airmon-ng check kil
 sudo airmon-ng start wlan0
 //Start monitor mode
 
-sudo airmon-ng wlan0mon 
+sudo airodump-ng wlan0mon 
 //Reachable stations and network mac
 
 airodump-ng --bssid 'network mac' --channel 'channel' wlan0
