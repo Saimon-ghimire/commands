@@ -1,5 +1,6 @@
 wlan0 or the interface you have
 /usr/sbin/airmon-ng/
+May require ((wlan0 or interface))mon 
 
 sudo airmon-ng check kil
 //kill conflicts
